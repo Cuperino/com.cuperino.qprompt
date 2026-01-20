@@ -13,9 +13,9 @@
       "--filesystem=xdg-desktop:create ",
       "--filesystem=xdg-documents:create ",
       "--filesystem=xdg-download:create ",
-      "--filesystem=/media:create",
-      "--filesystem=/run/media:create",
-      "--filesystem=/mnt:create"
+      "--filesystem=/media:ro",
+      "--filesystem=/run/media:ro",
+      "--filesystem=/mnt:ro"
    ],
    "cleanup" : [
       "/include",
