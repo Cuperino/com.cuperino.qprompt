@@ -60,7 +60,7 @@
                "type": "git",
                "url": "https://github.com/Cuperino/QPrompt.git",
                "tag": "v2.0.1-flatpak",
-               "commit": "d791eef5d022422fa6b65331a279bb5eff1ec561"
+               "commit": "ab4adfed0579f5b4908213c7673fe902fc07dc57"
             }
          ]
       }
